@@ -8,3 +8,5 @@ mangum
 openai
 httpx
 python-dotenv
+websockets
+wsproto
